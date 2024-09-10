@@ -5,7 +5,6 @@ function crearDoc(arr, tipoDato) {
         "boolean",
         "number",
         "string",
-        null,
         "undefined",
         "symbol"
     ]
